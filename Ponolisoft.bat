@@ -7,7 +7,7 @@ echo Please Wait
 ftp -s:version.ftp >NUL
 title PonoliSoft Finally!
 set /p akti=<Akti.txt
-set version=1.1.1
+set version=1.0pre
 set /p ftu=<ftu.txt
 set versionsper=Finally!
 set versionbios=N/A
